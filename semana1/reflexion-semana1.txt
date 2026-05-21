@@ -1,0 +1,16 @@
+
+¿Qué relación encuentras entre el uso responsable de la información en internet,
+la participación ciudadana y la organizacion del trabajo tecnico con herramientas
+como git?
+
+git, es una herramienta que nos permite trabajar cogigos abiertos entre grupos
+de personas,de manera segura y didáctica esto con la finalidad de armonizar
+el trabajo colaborativo, despertando el interés de los demás aprender y aportar
+aportar su conocimiento. por otro lado la responsabilidad que le demos a esta
+esta herramienta concierne al uso ético debido a que esta herramienta puede ser
+un arma de doble filo, se puede utilizar para ayudar a un tipo de comunidad
+o crear un entorno digital seguro pero también, consiste de los llamados hacker
+pueden crear cogigos mailiciosos, y por medio de un enlace robarnos la informacion.
+pero sobre todo este esta busca darle soluciones comunitarias, como por ejemplo mapear
+en conjunto y colaboración entornos digitales hacerle seguimiento a proyectos que se 
+den dentro de una comunidad entre otras finalidades.
