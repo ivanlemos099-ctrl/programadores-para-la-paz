@@ -1,0 +1,7 @@
+¿Por qué es importante que los proyectos de software mantengan un registro de cambios usando herramientas como Git?
+se puede decir que este enfrenta un grande recto en cuestión de seguridad, si algún comando falla dentro de este modelo,
+puedes volver a iniciar, dado que este guarda la información. Por otro lado el trabajo colaborativo este nos permite
+que un grupo de personas, puedan trabajar en una misma secuencia el mismo código sin la preocupación de que puedan 
+estropear el trabajo debido a que este conserva el modelo actual. También este detecta o le hace seguimiento, al archivo
+que se este trabajando y nos arroja quien y como se hizo x o y, cambio. y por ultimo la innovación de trabajar en un 
+modelo experimental, sin dañar el modelo original permitiendo fallar y aprender del mismo. 

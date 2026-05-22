@@ -1,0 +1,5 @@
+Repositorio: lugar donde guarda y se organizan los archivos.
+
+Commit: es la encargada de llevar acabo los cambios que se dan dentro de un proyecto.
+
+Push: es el encargado de empujar al repositorio la información de un proyecto
