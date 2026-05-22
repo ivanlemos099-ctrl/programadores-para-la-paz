@@ -1,0 +1,8 @@
+¿Por qué es importante para un desarrollador saber usar terminal para navegar y organizar archivos dentro de un proyecto?
+
+Para desarrollar la terminal o línea de comandos no quiere decir que vamos a trabajar dentro de una pantalla negra con texto sino que este sea el control de cualquier proyecto de software dentro de esta tenemos que saber navegar y organizar archivos desde la terminal debido a que es fundamental por las siguientes razones la velocidad es con la que crean o mueves y organiza archivos en un segundo contesto es más rápido que hacer clic con mouse.
+La automatización esta permite cambiar el nombre o mover decenas de archivos a la vez por un solo comando. 
+La herramienta esencial git y los gestores de código se utilizan principalmente desde la terminal es importante saber de ella para saber utilizarlo.
+Servidores remotos al subir el proyecto a la nube en esta no hay pantalla ni botones y la pantalla es la única terminal esta es la única forma de gestionar los proyectos o los archivos al servidor. 
+
+En conclusión podemos decir que estas herramientas nos ayudan a tener el control total de los proyectos y ahorrar tiempo para trabajar de manera automática y rápida.
